@@ -1,0 +1,7 @@
+{
+    "description": "Helper for Unity Editor.",
+    "displayName": "Unity Helper",
+    "name": "com.mgs.unityhelper",
+    "unity": "2021.3",
+    "version": "1.0.0"
+}
