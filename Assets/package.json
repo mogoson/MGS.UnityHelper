@@ -1,7 +1,16 @@
 {
-    "description": "Helper for Unity Editor.",
-    "displayName": "Unity Helper",
     "name": "com.mgs.unityhelper",
+    "version": "1.0.0",
+    "displayName": "Unity Helper",
+    "description": "Helper for Unity Editor",
     "unity": "2021.3",
-    "version": "1.0.0"
+    "keywords": [
+        "helper",
+        "path"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://github.com/mogoson"
+    }
 }
