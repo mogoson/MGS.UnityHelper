@@ -1,5 +1,5 @@
 {
-    "name": "MGS.UnityHelper",
+    "name": "MGS.UnityHelper.Editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [

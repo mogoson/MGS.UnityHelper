@@ -1,7 +1,7 @@
 ﻿/*************************************************************************
  *  Copyright © 2024 Mogoson. All rights reserved.
  *------------------------------------------------------------------------
- *  File         :  PathHelper.cs
+ *  File         :  PathHelperEditor.cs
  *  Description  :  Null.
  *------------------------------------------------------------------------
  *  Author       :  Mogoson
@@ -14,9 +14,9 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace MGS.UnityHelper
+namespace MGS.UnityHelper.Editors
 {
-    public sealed class PathHelper
+    public sealed class PathHelperEditor
     {
         [MenuItem("Tool/Path Helper/PersistentDataPath")]
         public static void PersistentDataPath()
