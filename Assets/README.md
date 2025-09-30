@@ -20,7 +20,7 @@ Helper for Unity Editor.
 
 ## Usage
 
-- Unity Editor Menu --> Tool --> UnityHelper --> Path --> xxxPath.
+- Unity Editor Menu --> Tool --> Path Helper --> xxxPath.
 
 ---
 
